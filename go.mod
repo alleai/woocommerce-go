@@ -25,3 +25,5 @@ require (
 	golang.org/x/text v0.16.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
+
+replace github.com/rafayhingoro/woocommerce-go => github.com/alleai/woocommerce-go v0.0.2
