@@ -2,7 +2,7 @@ package woocommerce
 
 import (
 	"fmt"
-	"github.com/rafayhingoro/woocommerce-go/entity"
+	"github.com/alleai/woocommerce-go/entity"
 	jsoniter "github.com/json-iterator/go"
 )
 

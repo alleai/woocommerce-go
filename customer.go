@@ -4,10 +4,10 @@ import (
 	"errors"
 	"fmt"
 
+	"github.com/alleai/woocommerce-go/entity"
 	validation "github.com/go-ozzo/ozzo-validation/v4"
 	"github.com/go-ozzo/ozzo-validation/v4/is"
 	jsoniter "github.com/json-iterator/go"
-	"github.com/rafayhingoro/woocommerce-go/entity"
 )
 
 // https://woocommerce.github.io/woocommerce-rest-api-docs/?php#customers

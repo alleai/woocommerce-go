@@ -3,8 +3,8 @@ package woocommerce
 import (
 	"errors"
 	"fmt"
+	"github.com/alleai/woocommerce-go/entity"
 	validation "github.com/go-ozzo/ozzo-validation/v4"
-	"github.com/rafayhingoro/woocommerce-go/entity"
 	jsoniter "github.com/json-iterator/go"
 )
 

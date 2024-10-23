@@ -1,4 +1,4 @@
-module github.com/rafayhingoro/woocommerce-go
+module github.com/alleai/woocommerce-go
 
 go 1.21
 
