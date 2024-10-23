@@ -1,4 +1,4 @@
-module github.com/rafayhingoro/woocommerce-go
+module github.com/alleai/woocommerce-go
 
 go 1.21
 
@@ -12,6 +12,7 @@ require (
 	github.com/google/go-querystring v1.1.0
 	github.com/hiscaler/gox v0.0.0-20231116102512-02246d9c2ba7
 	github.com/json-iterator/go v1.1.12
+	github.com/rafayhingoro/woocommerce-go v1.0.81
 	github.com/stretchr/testify v1.9.0
 )
 
@@ -26,4 +27,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-replace github.com/rafayhingoro/woocommerce-go => github.com/alleai/woocommerce-go v0.0.2
+replace github.com/alleai/woocommerce-go => github.com/rafayhingoro/woocommerce-go v0.0.2
