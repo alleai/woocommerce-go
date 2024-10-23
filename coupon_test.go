@@ -2,10 +2,10 @@ package woocommerce
 
 import (
 	"errors"
+	"github.com/alleai/woocommerce-go/entity"
 	"github.com/brianvoe/gofakeit/v6"
 	"github.com/hiscaler/gox/jsonx"
 	"github.com/hiscaler/gox/randx"
-	"github.com/rafayhingoro/woocommerce-go/entity"
 	"github.com/stretchr/testify/assert"
 	"strings"
 	"testing"

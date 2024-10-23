@@ -12,7 +12,6 @@ require (
 	github.com/google/go-querystring v1.1.0
 	github.com/hiscaler/gox v0.0.0-20231116102512-02246d9c2ba7
 	github.com/json-iterator/go v1.1.12
-	github.com/rafayhingoro/woocommerce-go v1.0.81
 	github.com/stretchr/testify v1.9.0
 )
 
@@ -26,5 +25,3 @@ require (
 	golang.org/x/text v0.16.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
-
-replace github.com/alleai/woocommerce-go => github.com/rafayhingoro/woocommerce-go v0.0.2
